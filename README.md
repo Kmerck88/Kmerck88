@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Merck</h1>
 <h3 align="center">A passionate Software Developer from Detroit, MI</h3>
 
-- 🌱 I’m currently learning **C#,.NET Core, HTML, CSS and JavaScript**
+- 🌱 I’m currently learning **C#,.NET Core, HTML, CSS, JavaScript, TypeScript**
 
 - 📫 How to reach me **Kevin.Merck88@gmail.com**
 
