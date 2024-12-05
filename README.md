@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **C#,.NET Core, HTML, CSS, JavaScript, TypeScript**
 
 - 📫 How to reach me **Kevin.Merck88@gmail.com**
-- 🛜 Checkout my Portfolio **[Kevin.Merck88@gmail.com](https://kmerck88.github.io/Portfolio-Site/)**
+- 🛜 Checkout my Portfolio **[[https://kmerck88.github.io/Portfolio-Site/](https://kmerck88.github.io/Portfolio-Site/)]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
